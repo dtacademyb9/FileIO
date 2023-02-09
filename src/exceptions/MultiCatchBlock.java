@@ -6,7 +6,7 @@ public class MultiCatchBlock {
     public static void main(String[] args) {
 
 
-
+    // CHANGE MADE BY B9
 
 
 //        try{
